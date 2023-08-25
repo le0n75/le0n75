@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leon</h1>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=le0n75)](https://github.com/anuraghazra/github-readme-stats)
+
 <picture align="center">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=le0n75&show_icons=true&theme=dark"
